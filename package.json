@@ -1,0 +1,14 @@
+{
+  "name": "javascript_fundamentals_p_1",
+  "version": "1.0.0",
+  "description": "js fund_p_1 practice code ",
+  "default": "script.js",
+  "scripts": {
+    "build": "parcel build script.js --dist-dir ./dist"
+  },
+  "author": "Muhammad Usman",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.4.1"
+  }
+}
